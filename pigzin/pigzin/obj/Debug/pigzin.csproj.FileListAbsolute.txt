@@ -1,0 +1,7 @@
+D:\Atividade C#\pigzin\pigzin\bin\Debug\pigzin.exe.config
+D:\Atividade C#\pigzin\pigzin\bin\Debug\pigzin.exe
+D:\Atividade C#\pigzin\pigzin\bin\Debug\pigzin.pdb
+D:\Atividade C#\pigzin\pigzin\obj\Debug\pigzin.csproj.AssemblyReference.cache
+D:\Atividade C#\pigzin\pigzin\obj\Debug\pigzin.csproj.CoreCompileInputs.cache
+D:\Atividade C#\pigzin\pigzin\obj\Debug\pigzin.exe
+D:\Atividade C#\pigzin\pigzin\obj\Debug\pigzin.pdb
